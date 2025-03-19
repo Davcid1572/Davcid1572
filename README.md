@@ -1,5 +1,6 @@
 <h1>Hi there 👋</h1>
-
+<p>I'm Ifejiofor Chibuike David</p>
+<p>A Frontend and Blockchain Developer</p>
 
 <!--
 **Davcid1572/Davcid1572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
