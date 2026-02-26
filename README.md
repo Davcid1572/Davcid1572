@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://ifejioforcdavid.netlify.app/](https://ifejioforcdavid.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ifejioforcdavid.netlify.app/](https://github.com/Davcid1572?tab=repositories)
 
 - 💬 Ask me about **React, Nexjs, Js**
 
