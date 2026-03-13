@@ -6,12 +6,12 @@
 - 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 All of my projects are available at [**my repo**](https://github.com/Davcid1572?tab=repositories)
-
+- 💻 [**Portfolio App**](https://ifejiofordavid-portfolio.vercel.app/) 
 - 💬 Ask me about **React, Nexjs, Js**
 
 - 📫 How to reach me **ifejioforcdavid@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bsBOPY4i6OYkaVh_wgrJz-6UJVbAjaFz/view?usp=sharing](https://drive.google.com/file/d/1bsBOPY4i6OYkaVh_wgrJz-6UJVbAjaFz/view?usp=sharing)
+- 📄 Know about my experiences [**CV**](https://drive.google.com/file/d/1bsBOPY4i6OYkaVh_wgrJz-6UJVbAjaFz/view?usp=sharing)
 
 - ⚡ Fun fact **I love Animals and Nature**
 
