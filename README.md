@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ifejiofor Chibuike David</h1>
-<h3 align="center">A frontend Engineer, Full-stack driven</h3>
+<h3 align="center">Frontend/AI-focused Software Engineer passionate about building fast, accessible, and user-friendly web applications.</h3>
 
 - 🔭 I’m currently working on **AnyThing AI**
 
