@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ifejiofor Chibuike David</h1>
-<h3 align="center">A passionate frontend developer, Full-stack driven</h3>
+<h3 align="center">A frontend Engineer, Full-stack driven</h3>
 
-- 🔭 I’m currently working on **Fintech App**
+- 🔭 I’m currently working on **AnyThing AI**
 
 - 🌱 I’m currently learning **Nextjs**
 
